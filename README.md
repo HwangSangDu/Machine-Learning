@@ -48,8 +48,9 @@ source ./bin/activate.csh**  # If using csh or tcsh
 
 
 # Jupyter
-- [Install Link](http://jupyter.org/install)
+- [Jupter Install Link](http://jupyter.org/install)
 	- **mac의 경우는 anaconda를 다운 받고 그 내에서 쓰는 것을 추천드립니다.**
+- [Anaconda Install Link](https://www.anaconda.com/download/#macos)    
 
 ~~~
 Jupyter는 머신러닝이나 데이터분석 용도로 파이썬을 사용하시는 분들이 주로 사용하는 툴로써 가벼우며 코드를 실행하고 수정하기가 간편합니다. 
